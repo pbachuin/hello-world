@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Very warm Welcome New User!!!</h1>
+    <h1>Hearty Welcome New User!!!</h1>
     <p>Please fill our form to create an account!</p>
     <hr>
 
