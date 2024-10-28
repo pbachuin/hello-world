@@ -1,18 +1,18 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> Welcome New User!</h1>
+    <h1> Welcome New User </h1>
     <p> Please fill form to create an account!</p>
     <hr>
 
-    <label for="Enter Your Email"><b>Email</b></label>
+    <label for="Please Enter Your Email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Enter Your Password</b></label>
+    <label for="psw"><b>Please Enter Your Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
     
-    <label for="psw-repeat"><b>please Repeat Password</b></label>
+    <label for="psw-repeat"><b>Please Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
 
