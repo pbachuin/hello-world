@@ -1,15 +1,15 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> Welcome  tomcat9 </h1>
-    <p> Please fill tomcat9 user account</p>
+    <h1> Welcome Tomcat9 </h1>
+    <p> Please fill Tomcat9 user account</p>
     <hr>
 
-    <label for="Please Enter tomcat9 Email"><b>Email</b></label>
-    <input type="text" placeholder="Enter tomcat9 Email" name="email" id="email" required>
+    <label for="Please Enter TOMCAT9 Email"><b>Email</b></label>
+    <input type="text" placeholder="Enter TOMCAT9 Email" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Please Enter tomcat9 Password</b></label>
-    <input type="password" placeholder="Enter tomcat9 Password" name="psw" id="psw" required>
+    <input type="password" placeholder="Enter TOMCAT9 Password" name="psw" id="psw" required>
     <br>
     
     <label for="psw-repeat"><b>Please Repeat your Password</b></label>
