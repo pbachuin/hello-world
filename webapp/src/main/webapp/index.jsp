@@ -1,14 +1,14 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> Welcome  User tomcat9 </h1>
-    <p> Please fill for tomcat9 user account</p>
+    <h1> Welcome  tomcat9 </h1>
+    <p> Please fill tomcat9 user account</p>
     <hr>
 
     <label for="Please Enter tomcat9 Email"><b>Email</b></label>
     <input type="text" placeholder="Enter tomcat9 Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Please Enter Your Password</b></label>
+    <label for="psw"><b>Please Enter tomcat9 Password</b></label>
     <input type="password" placeholder="Enter tomcat9 Password" name="psw" id="psw" required>
     <br>
     
