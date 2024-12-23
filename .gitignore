@@ -1,0 +1,6 @@
+*.gz
+*.zip
+*.jar
+.vagrant
+*.bin
+*.vdi
