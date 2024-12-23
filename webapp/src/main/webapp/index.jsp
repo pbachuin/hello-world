@@ -1,11 +1,11 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> Welcome New User tomcat9 </h1>
-    <p> Please fill for tomcat9 account</p>
+    <h1> Welcome  User tomcat9 </h1>
+    <p> Please fill for tomcat9 user account</p>
     <hr>
 
     <label for="Please Enter tomcat9 Email"><b>Email</b></label>
-    <input type="text" placeholder="please Enter tomcat9 Email" name="email" id="email" required>
+    <input type="text" placeholder="Enter tomcat9 Email" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Please Enter Your Password</b></label>
@@ -13,7 +13,7 @@
     <br>
     
     <label for="psw-repeat"><b>Please Repeat your Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <input type="password" placeholder="Repeat tomcat9 Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
