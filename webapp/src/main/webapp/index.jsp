@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> Welcome to user Tomcat9 </h1>
-    <p> Please fill user account details</p>
+    <h1> Welcome  New user  </h1>
+    <p> Please fill your details to create account</p>
     <hr>
 
     <label for="Please Enter Email"><b>Email</b></label>
