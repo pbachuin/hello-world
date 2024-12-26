@@ -5,11 +5,11 @@
     <hr>
 
     <label for="Please Enter Your Email"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Enter Your Email" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Please Enter  Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <input type="password" placeholder="Enter Your Password" name="psw" id="psw" required>
     <br>
     
     <label for="psw-repeat"><b>Please Repeat your Password</b></label>
