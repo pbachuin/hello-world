@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> Welcome to DevOps Learning and Testing </h1>
-    <p> Please fill your details to create an account</p>
+    <h1> Welcome to DevOps Learning and Testing! </h1>
+    <p> Please create an account</p>
     <hr>
 
     <label for="Please Enter Your Email"><b>Email</b></label>
